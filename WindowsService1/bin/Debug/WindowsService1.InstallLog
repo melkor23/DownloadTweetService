@@ -1,0 +1,109 @@
+﻿Desinstalando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog MyNewService.
+Advertencia: el origen MyNewService no está registrado en el equipo local.
+Se está quitando el servicio MyNewService del sistema...
+El servicio MyNewService se ha quitado correctamente del sistema.
+Intento de detener el servicio MyNewService.
+Instalando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio MyNewService...
+El servicio MyNewService se ha instalado correctamente.
+Creando el origen de EventLog MyNewService en el registro Application...
+Confirmando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Desinstalando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog MyNewService.
+Se está quitando el servicio MyNewService del sistema...
+El servicio MyNewService se ha quitado correctamente del sistema.
+Intento de detener el servicio MyNewService.
+Instalando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio MyNewService...
+El servicio MyNewService se ha instalado correctamente.
+Creando el origen de EventLog MyNewService en el registro Application...
+Confirmando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Desinstalando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog MyNewService.
+Se está quitando el servicio MyNewService del sistema...
+El servicio MyNewService se ha quitado correctamente del sistema.
+Intento de detener el servicio MyNewService.
+Instalando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio MyNewService...
+El servicio MyNewService se ha instalado correctamente.
+Creando el origen de EventLog MyNewService en el registro Application...
+Confirmando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Desinstalando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog MyNewService.
+Se está quitando el servicio MyNewService del sistema...
+El servicio MyNewService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio MyNewService...
+El servicio MyNewService se ha instalado correctamente.
+Creando el origen de EventLog MyNewService en el registro Application...
+Confirmando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Desinstalando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Quitando el origen de EventLog MyNewService.
+Se está quitando el servicio MyNewService del sistema...
+El servicio MyNewService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Instalando el servicio MyNewService...
+El servicio MyNewService se ha instalado correctamente.
+Creando el origen de EventLog MyNewService en el registro Application...
+Confirmando ensamblado 'C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\e.alvir\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
