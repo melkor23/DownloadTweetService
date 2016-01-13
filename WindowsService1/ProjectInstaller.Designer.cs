@@ -39,9 +39,9 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.Description = "Servicio de ejemplo";
-            this.serviceInstaller1.DisplayName = "Nombre para mostrar de MyNewService";
-            this.serviceInstaller1.ServiceName = "MyNewService";
+            this.serviceInstaller1.Description = "Servicio para mostrar los nuevos archivos en Cosicas d";
+            this.serviceInstaller1.DisplayName = "DownloadTweetService";
+            this.serviceInstaller1.ServiceName = "DownloadTweetService";
             this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             // 
             // ProjectInstaller
