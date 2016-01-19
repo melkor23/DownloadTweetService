@@ -20,7 +20,7 @@ namespace WindowsService1
         }
 
         static TwitterService service = null;
-        static string downloadPath = "D:\\Cosicas D";
+        static string downloadPath = "E:\\Cosicas D";
         static string torrentPath = "C:\\Users\\e.alvir\\Desktop\\pruebasEventos";
         protected override void OnStart(string[] args)
         {
